@@ -1,59 +1,13 @@
-![Preview](https://cdn.poehali.dev/templates/app-landing-ru/preview.jpg)
+# НотоПлан — приложение для заметок
 
-# App Landing Page (RU)
+![Preview](https://cdn.poehali.dev/templates/app-landing-ru/preview-ru.jpg)
 
-Лендинг для мобильного приложения на русском языке. Идеально подходит для презентации приложений-органайзеров, заметочников, планировщиков и productivity инструментов.
+Лендинг для мобильного приложения заметок и органайзера. Светлая чистая тема, показывающая интерфейс приложения. Отлично подойдёт для продвижения любого мобильного приложения — достаточно заменить скриншоты и тексты.
 
-## Технологии
+Включает:
+- Hero-секция с mockup приложения
+- Описание функций
+- Социальное доказательство
+- CTA для скачивания
 
-- React 18
-- Vite 5
-- TypeScript
-- Tailwind CSS
-- Lucide Icons
-- React Router
-
-## Запуск
-
-```bash
-npm install
-npm run dev
-```
-
-## Сборка
-
-```bash
-npm run build
-```
-
-## Структура
-
-```
-src/
-  pages/
-    Index.tsx      # Главная страница лендинга
-    NotFound.tsx   # Страница 404
-  components/
-    ui/
-      button.tsx   # Компонент кнопки
-  lib/
-    utils.ts       # Утилиты (cn для classnames)
-```
-
-## Секции лендинга
-
-- Header с навигацией
-- Hero секция с CTA
-- Логотипы партнеров
-- Отзыв клиента
-- Брендинг секция
-- Email функции
-- Footer
-
-## Теги
-
-`landing`, `app`, `mobile`, `russian`, `ru`, `react`, `vite`, `tailwind`, `typescript`, `notes`, `organizer`, `productivity`, `saas`
-
-```json
-"tags": ["landing", "light", "general", "app"]
-```
+"tags": ["landing", "light", "general"]
