@@ -1,3 +1,5 @@
+![Preview](https://cdn.poehali.dev/templates/app-landing-ru/preview.jpg)
+
 # App Landing Page (RU)
 
 Лендинг для мобильного приложения на русском языке. Идеально подходит для презентации приложений-органайзеров, заметочников, планировщиков и productivity инструментов.
@@ -51,3 +53,7 @@ src/
 ## Теги
 
 `landing`, `app`, `mobile`, `russian`, `ru`, `react`, `vite`, `tailwind`, `typescript`, `notes`, `organizer`, `productivity`, `saas`
+
+```json
+"tags": ["landing", "light", "general", "app"]
+```
